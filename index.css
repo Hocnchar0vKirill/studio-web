@@ -115,7 +115,7 @@ height: 644px;
     width: 900px;
     height: 79px;
     left: 123px;
-    top: 335px;
+    top: 200px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 800;
@@ -128,11 +128,40 @@ position: absolute;
 width: 700px;
 height: 54px;
 left: 125px;
-top: 430px;
+top: 295px;
 color: #2EECC5;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 800;
 font-size: 45px;
 line-height: 54px;
+}
+.description {
+position: absolute;
+width: 672px;
+height: 54px;
+left: 125px;
+top: 504px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.65);
+
+}
+.additional-information {
+box-sizing: border-box;
+color: white;
+position: absolute;
+width: 200px;
+height: 57px;
+left: 125px;
+top: 642px;
+
+background: rgba(46, 236, 197, 0.1);
+border: 1.5px solid #2EECC5;
+border-radius: 41px;
 }
